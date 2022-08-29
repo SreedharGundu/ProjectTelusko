@@ -8,6 +8,7 @@ public class iteration1
 			c=65;
 			for(int j=1;j<i+1;j++) 
 			{
+				// test
 				System.out.print(c+" ");
 				c++;
 			}
