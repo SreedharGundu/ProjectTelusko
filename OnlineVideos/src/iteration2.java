@@ -8,6 +8,9 @@ public class iteration2
 			for(int j=1;j<5;j++) 
 			{
 				// testing 
+				
+				
+				// testing 1
 				if (i==1 || i==4 || j==1 || j==4)
 					System.out.print("$ ");
 				else
